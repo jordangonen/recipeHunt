@@ -1,6 +1,7 @@
 # Recipe Hunt #
 
 A website to create, share, and discover recipes. Created using the Facebook API and PHP Laravel.
+Made with Ibrahim Saberi for Rapid Prototyping and Web Development Class. 
 
 ## Feature List ##
 
